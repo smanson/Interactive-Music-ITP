@@ -17,3 +17,7 @@ description
 ### Sehwan Park - Case study : sound implementation
 This is a sound piece to practice different implementation with same sound.
 [link](http://thinkingclay.com/index.php/week1_-sound-implementation/)
+
+### S.M - 2 Sounds, Similar yet Different
+DAC circuit VS online generation
+[link] (http://www.createubiquitously.com/?p=239)
