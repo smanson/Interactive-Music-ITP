@@ -29,24 +29,5 @@ Mouse will change parameters for the bitcrusher and filter.
 
 [link](http://104.131.104.216:3000/Week3/index.html)
 
-### Yurika Mulase - Blue
-
-[link](http://104.131.170.242:3004/)
-
-### Marc Abi-Samra & Matthew Kaney
-
-[link](http://content.mindofmatthew.com/interactive_music/hw2/)
-
-### Denny - Walk in a Park
-[link](http://dennyabrain.github.io/InteractiveMusic/WalkInAPark/)
-
-### Gabriel Andrade - all noise mixer
-
-MouseY will change the noise type, and mouseX will mix between noise and a track.
-[link](http://gandradep.github.io/noise/)
-
-### AV - Rainy Typewriter
-[link](http://104.131.12.68:3001/)
-
-
-
+## S. Manson - Signature Sonification 
+[link] http://smanson.github.io/I_Music_Ass/wk2HW/
